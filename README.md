@@ -2,4 +2,4 @@
 Titanic: Machine Learning from Disaster
 
 
-[kaggle_titanic_notebooks](https://www.kaggle.com/jerrykim91/titanic-from-kaggle-jerrykim91/edit)
+[kaggle_titanic_notebooks](https://www.kaggle.com/jerrykim91/titanic-from-kaggle-jerrykim91)
