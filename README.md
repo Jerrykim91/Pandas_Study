@@ -1,11 +1,11 @@
 
-# Pandas_Study
+# DataAnalysis_Study
 
 ##### JUST DO IT RIGHT NOW
 
 <br>
 
-- Data analysis using Pandas
+- Data analysis - Pandas & R
 
 <br><br>
 
